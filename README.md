@@ -1,7 +1,2 @@
 ## Hi there 👋
-
-
-- 🔭 I’m currently working on Lisnen as a Software Developer
-- 👯 I’m looking to collaborate on Developer Tooling.
-- 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/chandana-adusumalli/
+Would love to connect if you have any ideas in mind or happy to discuss mine.
